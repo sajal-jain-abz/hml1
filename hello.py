@@ -9,4 +9,4 @@ sess = tf.Session()
 
 # Run the op
 print(sess.run(hello))
-print('test run 2')
+print('test run 1')
